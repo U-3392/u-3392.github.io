@@ -11,3 +11,4 @@ tags: bureaucracy
 * purity and work
 * why i love conlangs, shorthand, and other such linguistic hobbies
 * beauty of the imageboard
+* digital minimalism
