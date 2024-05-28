@@ -12,3 +12,4 @@ tags: bureaucracy
 * why i love conlangs, shorthand, and other such linguistic hobbies
 * beauty of the imageboard
 * digital minimalism
+* sweetheart of the song tra bong -> peace and indifference
