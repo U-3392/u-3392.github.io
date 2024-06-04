@@ -5,9 +5,7 @@ permalink: /about/
 ---
 
 # who are you?
-a teenager struck by a need to make ideas cohere. 
----
-current reference frame: New York City
+a teenager struck by a need to make ideas cohere.  // current reference frame: New York City
 
 # can i hear more?
 sure, talk to me using:

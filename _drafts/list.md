@@ -13,3 +13,4 @@ tags: bureaucracy
 * beauty of the imageboard
 * digital minimalism
 * sweetheart of the song tra bong -> peace and indifference
+* how language learning is going... (updates)
